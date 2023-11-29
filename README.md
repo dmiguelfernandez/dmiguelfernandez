@@ -10,7 +10,7 @@
 - :computer: Currenly I'm working as a Software Developer at [**Redsys**][redsys]
 
 [upm]: https://www.upm.es/
-[redsys]: http://www.redsys.es/
+[redsys]: https://www.linkedin.com/company/redsys-espa-a/
 
 ## About Me
 - 🖥️ I love programming
